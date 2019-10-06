@@ -1,0 +1,22 @@
+# comentário
+.idea/
+
+# comentário
+*.iml
+
+# comentário
+.gradle/
+gradle/
+
+# comentário
+.DS_Store
+.externalNativeBuild
+.cxx
+
+
+# comentário
+build/
+captures/
+local.properties
+
+
