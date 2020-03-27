@@ -5,8 +5,9 @@
 *.iml
 
 # comentário
-.gradle/
 gradle/
+.gradle/
+build.gradle
 
 # comentário
 .DS_Store
