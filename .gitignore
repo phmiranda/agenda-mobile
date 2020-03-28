@@ -1,12 +1,20 @@
 # comentário
 .idea/
+.vscode/
+
+# comentário
+app/release/
+app/release/*.aab
+app/release/*.apk
+app/release/*.json
 
 # comentário
 *.iml
+*.log
 
 # comentário
-gradle/
 .gradle/
+gradle/
 build.gradle
 
 # comentário

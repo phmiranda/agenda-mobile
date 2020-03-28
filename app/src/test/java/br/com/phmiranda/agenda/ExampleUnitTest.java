@@ -1,4 +1,4 @@
-package br.com.alura.agenda;
+package br.com.phmiranda.agenda;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package br.com.alura.agenda.entity;
+package br.com.phmiranda.agenda.entity;
 
 import androidx.annotation.NonNull;
 

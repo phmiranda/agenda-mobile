@@ -1,9 +1,9 @@
-package br.com.alura.agenda.repository;
+package br.com.phmiranda.agenda.repository;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.alura.agenda.entity.Aluno;
+import br.com.phmiranda.agenda.entity.Aluno;
 
 public class AlunoDao {
     private final static List<Aluno> alunos = new ArrayList<>();

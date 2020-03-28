@@ -1,4 +1,4 @@
-package br.com.alura.agenda.view;
+package br.com.phmiranda.agenda.view;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,8 +11,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
-import br.com.alura.agenda.R;
-import br.com.alura.agenda.repository.AlunoDao;
+import br.com.phmiranda.agenda.R;
+import br.com.phmiranda.agenda.repository.AlunoDao;
 
 public class ListaAlunosActivity extends AppCompatActivity {
 
