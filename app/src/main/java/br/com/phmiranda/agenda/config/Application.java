@@ -9,7 +9,6 @@ package br.com.phmiranda.agenda.config;
 public class Application {
     public final String APP_TITULO = "Agenda Eletrônica";
     public final String APP_FORMULARIO = "Agenda Eletrônica";
-    public final String APP_FORMULARIO_CADASTRO = "Cadastro de Contato";
-    public final String APP_FORMULARIO_ATUALIZACAO = "Atualização de Contato";
-
+    public final String APP_FORMULARIO_CADASTRO = "Cadastro de Contatos (Inclusão)";
+    public final String APP_FORMULARIO_ATUALIZACAO = "Cadastro de Contatos (Atualização)";
 }
