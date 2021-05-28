@@ -9,8 +9,8 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import br.com.phmiranda.agenda.R;
-import br.com.phmiranda.agenda.entity.Aluno;
-import br.com.phmiranda.agenda.repository.AlunoDao;
+import br.com.phmiranda.agenda.domain.Aluno;
+import br.com.phmiranda.agenda.repository.dao.AlunoDao;
 
 public class FormularioAlunoActivity extends AppCompatActivity {
     public static final String FORMULARIO_TITULO = "Formulário de Aluno";
