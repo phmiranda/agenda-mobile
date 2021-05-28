@@ -9,23 +9,26 @@ app/release/*.apk
 app/release/*.json
 
 # comentário
-*.iml
-*.log
+build.gradle
+settings.gradle
+gradle.properties
+local.properties
 
 # comentário
 .gradle/
-gradle/
-build.gradle
-
-# comentário
 .DS_Store
 .externalNativeBuild
 .cxx
 
-
 # comentário
 build/
 captures/
-local.properties
+gradle/
 
+# comentário
+gradlew
+gradlew.bat
 
+# comentário
+*.iml
+*.log

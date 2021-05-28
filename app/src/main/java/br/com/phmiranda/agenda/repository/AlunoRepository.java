@@ -1,9 +1,12 @@
 package br.com.phmiranda.agenda.repository;
 
-import br.com.phmiranda.agenda.entity.Aluno;
+import br.com.phmiranda.agenda.domain.dto.AlunoDto;
 
-public class AlunoRepository {
-    public void salvar(Aluno aluno){
+public interface AlunoRepository {
+    void index();
 
-    }
+    void save(AlunoDto alunoDto);
+
+    void update(AlunoDto alunoDto);
+
 }

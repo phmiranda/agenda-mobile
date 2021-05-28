@@ -1,4 +1,4 @@
-package br.com.phmiranda.agenda.entity;
+package br.com.phmiranda.agenda.domain;
 
 import androidx.annotation.NonNull;
 
